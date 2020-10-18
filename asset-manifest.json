@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React_Context_Hooks_LocalStorage_Reading_App/static/css/main.70f2a179.chunk.css",
-    "main.js": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.f73371ac.chunk.js",
-    "main.js.map": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.f73371ac.chunk.js.map",
+    "main.js": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.3d7dab4a.chunk.js",
+    "main.js.map": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.3d7dab4a.chunk.js.map",
     "runtime-main.js": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/runtime-main.ac14f4ff.js",
     "runtime-main.js.map": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/runtime-main.ac14f4ff.js.map",
     "static/js/2.ac892187.chunk.js": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/2.ac892187.chunk.js",
     "static/js/2.ac892187.chunk.js.map": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/2.ac892187.chunk.js.map",
     "index.html": "/React_Context_Hooks_LocalStorage_Reading_App/index.html",
-    "precache-manifest.0c87f0b6b5e2ec39735f5c481c4c2694.js": "/React_Context_Hooks_LocalStorage_Reading_App/precache-manifest.0c87f0b6b5e2ec39735f5c481c4c2694.js",
+    "precache-manifest.77248051ae9b8a8f1defe52dba141813.js": "/React_Context_Hooks_LocalStorage_Reading_App/precache-manifest.77248051ae9b8a8f1defe52dba141813.js",
     "service-worker.js": "/React_Context_Hooks_LocalStorage_Reading_App/service-worker.js",
     "static/css/main.70f2a179.chunk.css.map": "/React_Context_Hooks_LocalStorage_Reading_App/static/css/main.70f2a179.chunk.css.map",
     "static/js/2.ac892187.chunk.js.LICENSE.txt": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/2.ac892187.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ac14f4ff.js",
     "static/js/2.ac892187.chunk.js",
     "static/css/main.70f2a179.chunk.css",
-    "static/js/main.f73371ac.chunk.js"
+    "static/js/main.3d7dab4a.chunk.js"
   ]
 }

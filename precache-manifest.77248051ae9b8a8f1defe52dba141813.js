@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50d2f9713b59e98ca314e0dd40a65fb6",
+    "revision": "6639bf2d10e616e2f7a5fb2762d587d1",
     "url": "/React_Context_Hooks_LocalStorage_Reading_App/index.html"
   },
   {
-    "revision": "fc26ac8f680012dea888",
+    "revision": "2547e11811ca7fcd3858",
     "url": "/React_Context_Hooks_LocalStorage_Reading_App/static/css/main.70f2a179.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/2.ac892187.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fc26ac8f680012dea888",
-    "url": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.f73371ac.chunk.js"
+    "revision": "2547e11811ca7fcd3858",
+    "url": "/React_Context_Hooks_LocalStorage_Reading_App/static/js/main.3d7dab4a.chunk.js"
   },
   {
     "revision": "294c74c8ade1a6c18056",
